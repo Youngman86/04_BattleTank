@@ -12,3 +12,4 @@ BT07 Using Landscape Layers
 BT08 FLat Shading Low Poly Landscapes
 BT09 More Landscaping Tools
 BT11 Actors from Multiple Meshes
+BT12 Configuring a Tank
