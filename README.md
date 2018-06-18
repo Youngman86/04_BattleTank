@@ -24,3 +24,4 @@ BT20 Delegating To Components
 BT21 Using virtual and override
 BT22 Creating an AI Controller Class
 BT23 Getting the Player Controller with C++
+BT24 Add Tick() to PlayerController
