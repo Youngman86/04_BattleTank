@@ -22,3 +22,5 @@ BT18 Controller Ready Navigation
 BT19 Trial Packaging Your Game
 BT20 Delegating To Components
 BT21 Using virtual and override
+BT22 Creating an AI Controller Class
+BT23 Getting the Player Controller with C++
